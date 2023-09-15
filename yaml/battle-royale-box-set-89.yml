@@ -1,0 +1,105 @@
+---
+object: card
+id: 393ebf58-47ad-4394-9902-ff82a4b79464
+oracle_id: f671e3c3-cd59-4d06-a1af-5d04892cf74d
+multiverse_ids:
+- 21100
+tcgplayer_id: 37634
+cardmarket_id: 14696
+name: Tranquility
+lang: en
+released_at: '1999-11-12'
+uri: https://api.scryfall.com/cards/393ebf58-47ad-4394-9902-ff82a4b79464
+scryfall_uri: https://scryfall.com/card/brb/89/tranquility?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.jpg?1562908477
+  normal: https://cards.scryfall.io/normal/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.jpg?1562908477
+  large: https://cards.scryfall.io/large/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.jpg?1562908477
+  png: https://cards.scryfall.io/png/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.png?1562908477
+  art_crop: https://cards.scryfall.io/art_crop/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.jpg?1562908477
+  border_crop: https://cards.scryfall.io/border_crop/front/3/9/393ebf58-47ad-4394-9902-ff82a4b79464.jpg?1562908477
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy all enchantments.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 81118b2a-b5c8-4fdc-830a-ce5b74eb60b9
+set: brb
+set_name: Battle Royale Box Set
+set_type: box
+set_uri: https://api.scryfall.com/sets/81118b2a-b5c8-4fdc-830a-ce5b74eb60b9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abrb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/brb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/393ebf58-47ad-4394-9902-ff82a4b79464/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af671e3c3-cd59-4d06-a1af-5d04892cf74d&unique=prints
+collector_number: '89'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 71afb81d-3e5b-400d-b2ac-825e4dcf1976
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13250
+prices:
+  usd: '0.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '5.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21100
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tranquility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tranquility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tranquility
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37634?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquility&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tranquility&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

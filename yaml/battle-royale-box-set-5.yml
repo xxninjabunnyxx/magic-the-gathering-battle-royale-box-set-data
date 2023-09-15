@@ -1,0 +1,108 @@
+---
+object: card
+id: f03573c4-e682-4252-abcb-7d2d42894801
+oracle_id: 5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982
+multiverse_ids:
+- 21102
+tcgplayer_id: 37545
+cardmarket_id: 14612
+name: Arc Lightning
+lang: en
+released_at: '1999-11-12'
+uri: https://api.scryfall.com/cards/f03573c4-e682-4252-abcb-7d2d42894801
+scryfall_uri: https://scryfall.com/card/brb/5/arc-lightning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.jpg?1562952050
+  normal: https://cards.scryfall.io/normal/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.jpg?1562952050
+  large: https://cards.scryfall.io/large/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.jpg?1562952050
+  png: https://cards.scryfall.io/png/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.png?1562952050
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.jpg?1562952050
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f03573c4-e682-4252-abcb-7d2d42894801.jpg?1562952050
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Arc Lightning deals 3 damage divided as you choose among one, two, or
+  three targets.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 81118b2a-b5c8-4fdc-830a-ce5b74eb60b9
+set: brb
+set_name: Battle Royale Box Set
+set_type: box
+set_uri: https://api.scryfall.com/sets/81118b2a-b5c8-4fdc-830a-ce5b74eb60b9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abrb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/brb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f03573c4-e682-4252-abcb-7d2d42894801/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982&unique=prints
+collector_number: '5'
+digital: false
+rarity: common
+flavor_text: Rainclouds don't last long in Shiv, but that doesn't stop the lightning.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andrew Goldhawk
+artist_ids:
+- f4a65a04-9e2e-4541-8d0e-f34e9517f092
+illustration_id: fa16bad9-228f-4896-a219-1d108ba47b8c
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13418
+penny_rank: 6196
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21102
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arc+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arc+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Arc+Lightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37545?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arc+Lightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arc+Lightning&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
